@@ -317,4 +317,3 @@ networks:
     external: false
   temporal-network:
     driver: bridge
-    name: temporal-network
